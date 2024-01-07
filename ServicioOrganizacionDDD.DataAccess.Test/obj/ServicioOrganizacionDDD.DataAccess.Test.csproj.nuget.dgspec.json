@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess.Test\\ServicioOrganizacionDDD.DataAccess.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess.Test\\ServicioOrganizacionDDD.DataAccess.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess.Test\\ServicioOrganizacionDDD.DataAccess.Test.csproj",
+        "projectName": "ServicioOrganizacionDDD.DataAccess.Test",
+        "projectPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess.Test\\ServicioOrganizacionDDD.DataAccess.Test.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess\\ServicioOrganizacionDDD.DataAccess.csproj": {
+                "projectPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess\\ServicioOrganizacionDDD.DataAccess.csproj"
+              },
+              "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.Domain\\ServicioOrganizacionDDD.Domain.csproj": {
+                "projectPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.Domain\\ServicioOrganizacionDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess\\ServicioOrganizacionDDD.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess\\ServicioOrganizacionDDD.DataAccess.csproj",
+        "projectName": "ServicioOrganizacionDDD.DataAccess",
+        "projectPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess\\ServicioOrganizacionDDD.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.Domain\\ServicioOrganizacionDDD.Domain.csproj": {
+                "projectPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.Domain\\ServicioOrganizacionDDD.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.Domain\\ServicioOrganizacionDDD.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.Domain\\ServicioOrganizacionDDD.Domain.csproj",
+        "projectName": "ServicioOrganizacionDDD.Domain",
+        "projectPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.Domain\\ServicioOrganizacionDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Prueba Tecnica WebHelp\\ServicioOrganizacion\\ServicioOrganizacionDDD.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
