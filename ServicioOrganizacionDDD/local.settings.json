@@ -8,7 +8,7 @@
   },
   "Host": {
     "LocalHttpPort": 7114,
-    "CORS": "http://localhost:42004", // Agrega el origen de tu aplicación Angular
+    "CORS": "http://localhost:4200", // Agrega el origen de tu aplicación Angular
     "CORSCredentials": true
   }
 }
