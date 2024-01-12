@@ -1,0 +1,12 @@
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\bin\Release\net6.0\ServicioOrganizacionDDD.Domain.deps.json
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\bin\Release\net6.0\ServicioOrganizacionDDD.Domain.dll
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\bin\Release\net6.0\ServicioOrganizacionDDD.Domain.pdb
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\ServicioOrganizacionDDD.Domain.csproj.AssemblyReference.cache
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\ServicioOrganizacionDDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\ServicioOrganizacionDDD.Domain.AssemblyInfoInputs.cache
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\ServicioOrganizacionDDD.Domain.AssemblyInfo.cs
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\ServicioOrganizacionDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\ServicioOrganizacionDDD.Domain.dll
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\refint\ServicioOrganizacionDDD.Domain.dll
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\ServicioOrganizacionDDD.Domain.pdb
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.Domain\obj\Release\net6.0\ref\ServicioOrganizacionDDD.Domain.dll

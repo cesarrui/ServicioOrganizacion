@@ -1,0 +1,15 @@
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\bin\Release\net6.0\ServicioOrganizacionDDD.DataAccess.deps.json
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\bin\Release\net6.0\ServicioOrganizacionDDD.DataAccess.dll
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\bin\Release\net6.0\ServicioOrganizacionDDD.DataAccess.pdb
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\bin\Release\net6.0\ServicioOrganizacionDDD.Domain.dll
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\bin\Release\net6.0\ServicioOrganizacionDDD.Domain.pdb
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ServicioOrganizacionDDD.DataAccess.csproj.AssemblyReference.cache
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ServicioOrganizacionDDD.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ServicioOrganizacionDDD.DataAccess.AssemblyInfoInputs.cache
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ServicioOrganizacionDDD.DataAccess.AssemblyInfo.cs
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ServicioOrganizacionDDD.DataAccess.csproj.CoreCompileInputs.cache
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ServicioOrganizacionDDD.DataAccess.csproj.CopyComplete
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ServicioOrganizacionDDD.DataAccess.dll
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\refint\ServicioOrganizacionDDD.DataAccess.dll
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ServicioOrganizacionDDD.DataAccess.pdb
+C:\Prueba Tecnica WebHelp\ServicioOrganizacion\ServicioOrganizacionDDD.DataAccess\obj\Release\net6.0\ref\ServicioOrganizacionDDD.DataAccess.dll

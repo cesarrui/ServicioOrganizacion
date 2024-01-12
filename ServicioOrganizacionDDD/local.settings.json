@@ -2,13 +2,14 @@
   "IsEncrypted": false,
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
     "SqlConnectionString": "Server=DESKTOP-SCJG7VI\\SQLEXPRESS;Database=JobTestDB;User ID=userdb;Password=a609d0bd-9385-41ed-953b-e57ba8549039;Encrypt=false;TrustServerCertificate=False;Connection Timeout=30;"
+    //"SqlConnectionString": "Server=sql-administracionempleados.database.windows.net;Database=JobTestDB;User ID=admindbempleado;Password=Empleadosdb2024;Encrypt=false;TrustServerCertificate=False;Connection Timeout=30;"
 
   },
   "Host": {
     "LocalHttpPort": 7114,
-    "CORS": "http://localhost:42004", // Agrega el origen de tu aplicación Angular
+    "CORS": "http://localhost:4200", // Agrega el origen de tu aplicación Angular
     "CORSCredentials": true
   }
 }
